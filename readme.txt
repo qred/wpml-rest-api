@@ -22,3 +22,8 @@ Adds links to posts in other languages into the results of a WP REST API query f
 
 = 1.0 =
 * First release.
+= 1.1 =
+* Allows language switching by specifying 'lang' or 'wpml_lang' parameters on the query string.
+* Typos in code fixed.
+= 1.2 =
+* Added endpoint for all translations.
